@@ -1,0 +1,7 @@
+Topic: pod-wielkim-dachem-nieba  („Język polski bez granic” B2, Lekcja 3 „Pod wielkim dachem nieba”)
+Put these mp3 files in this folder (exact names), then upload with the rest of ToCommit/.
+
+dzien-ziemi.mp3     – Dzień Ziemi, ćw. III: „Jak obchodzić Dzień Ziemi na co dzień?” (book CD, track 4)   → card „na-co-dzien”
+niedzwiedzie.mp3    – Ochrona środowiska, ćw. III: Z. Herbert „Niedźwiedzie” (book CD, track 5)          → card „niedzwiedzie”
+geoinzynieria.mp3   – Ochrona środowiska, ćw. VI: „Pięć niezwykłych pomysłów na ochłodzenie Ziemi” (book CD, track 6) → card „geoinzynieria”
+nadzy-na-mroz.mp3   – Piosenka „Nadzy na mróz” (Happysad) – not on the book CD; any recording (or a YouTube link) → card „piosenka”
