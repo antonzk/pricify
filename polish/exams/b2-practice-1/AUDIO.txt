@@ -1,0 +1,10 @@
+Exam b2-practice-1 (topics/b2/Examin B2.pdf) — listening recordings, one file per task.
+Put the mp3s next to this file (ToCommit/exams/b2-practice-1/), then copy ToCommit/ into the media repo's
+polish/ folder like the topic media. The exam JSON links to
+https://raw.githubusercontent.com/antonzk/pricify/refs/heads/polish/polish/exams/b2-practice-1/<file>
+
+zadanie-1.mp3   Słuchanie I   – „Najdziwniejsze muzea w Polsce” (pictures A–K)             CD track 22
+zadanie-2.mp3   Słuchanie II  – „Jak nie dać się nabrać na wyprzedaże?” (5 true sentences) CD track 23
+zadanie-3.mp3   Słuchanie III – „Przypadkowe odkrycia” (P/F)                               CD track 24
+zadanie-4.mp3   Słuchanie IV  – „Przestrzeń a my” (gaps)                                   CD track 25
+zadanie-5.mp3   Słuchanie V   – theft on a Lublin bus (matching 0–5)                        CD track 26
